@@ -1,0 +1,5 @@
+Run
+1. Start your Ollama service locally (follow Ollama docs).
+
+2. Run the Streamlit app:
+    streamlit run app.py
